@@ -12,6 +12,7 @@ public class RadioReloj {
     }
 
     public RadioReloj(String marca, float frecuencia, int volumen, boolean amFm, Reloj wacho) {
+
         this.marca = marca;
         this.frecuencia = frecuencia;
         this.volumen = volumen;
